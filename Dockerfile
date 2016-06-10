@@ -1,4 +1,4 @@
-FROM nghiant2710/rpi-node
+FROM resin/rpi-node
 
 RUN npm install pm2 -g
 
